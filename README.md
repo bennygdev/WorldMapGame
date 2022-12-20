@@ -1,2 +1,2 @@
 # WorldMapGame
-This is a mega JavaScript web project that I am going to be working on throughout this month. This game is heavily inspired by https://codepen.io/ktich/pen/ExVmYGr as a geography fan, I am basically going to make this fun game by scratch
+This game is a work in progress, basically i wanted to make a game where it can test your knowledge about the world. soon to be updated
